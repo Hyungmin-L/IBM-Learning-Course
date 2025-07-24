@@ -1,0 +1,15 @@
+\babel@toc {english}{}\relax 
+\contentsline {frontmatter}{List of Figures}{iv}{listoffigures}%
+\contentsline {frontmatter}{List of Tables}{1}{listoftables}%
+\contentsline {chapter}{\numberline {1}Qiskit in Classrooms: Quantum Mechanics}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Superposition with Qiskit}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Stern-Gelach measurements with Qiskit}{2}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Introduction}{2}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Classical coin}{2}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Quantum coin}{2}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}The quantum revealed: an experiment in three dimensions}{2}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}The quantum phase}{2}{subsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.2.6}Bloch sphere representation}{2}{subsection.1.2.6}%
+\contentsline {subsubsection}{Blochsphere examples}{2}{subsubsection*.8}%
+\contentsline {section}{\numberline {1.3}Exploring uncertainty with Qiskit}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Bell's inequality with Qiskit}{3}{section.1.4}%
